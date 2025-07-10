@@ -76,9 +76,9 @@ The aim was to:
 
 ## 🔒 Security & Best Practices
 
-  - ✅ Filtered by LogonType 10 to ensure only RDP sessions are recorded
+  - ✅ Filtered by **LogonType 10** to ensure only RDP sessions are recorded
 
-  - ✅ Proper error handling with try/catch
+  - ✅ Proper error handling with `try/catch`
 
   - ✅ Does not modify system or registry settings
 
